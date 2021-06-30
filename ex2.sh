@@ -15,3 +15,4 @@ fi
 
 #smecher. test pe git
 #al doilea comentariu de incercat pe GIT
+#alt branch -..................._-----> master2
