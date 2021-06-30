@@ -14,4 +14,4 @@ else
 fi
 
 #smecher. test pe git
-
+#al doilea comentariu de incercat pe GIT
