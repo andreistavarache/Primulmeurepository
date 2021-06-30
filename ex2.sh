@@ -13,5 +13,5 @@ else
         echo "The ip address hasnt the proper format"
 fi
 
-
+#smecher. test pe git
 
