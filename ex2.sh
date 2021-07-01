@@ -17,3 +17,4 @@ fi
 #al doilea comentariu de incercat pe GIT
 #al treilea comentariu de pe client.
 #incercare 
+#schimbare din client de pe laptopul de munca
