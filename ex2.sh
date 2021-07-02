@@ -15,6 +15,6 @@ fi
 
 #smecher. test pe git
 #al doilea comentariu de incercat pe GIT
-#al treilea comentariu de pe client.
-#incercare 
-#schimbare din client de pe laptopul de munca
+
+#Am sters totul pentru ca sa fie ok in ambele locuri
+
