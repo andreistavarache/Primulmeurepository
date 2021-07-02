@@ -15,4 +15,6 @@ fi
 
 #smecher. test pe git
 #al doilea comentariu de incercat pe GIT
-#alt branch -..................._-----> master2
+
+#Am sters totul pentru ca sa fie ok in ambele locuri
+
